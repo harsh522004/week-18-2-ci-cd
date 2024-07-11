@@ -17,6 +17,11 @@ console.log("hey harsh");
 console.log("hey harsh");
 console.log("hey harsh");
 console.log("hey harsh");
+console.log("hey harsh");
+console.log("hey harsh");
+console.log("hey harsh");
+console.log("hey harsh");
+console.log("hey harsh");
 
 const handler = NextAuth(authOptions);
 
